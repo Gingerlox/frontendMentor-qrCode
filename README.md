@@ -7,9 +7,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop preview of project](\screenshots\desktop.png)
+![Desktop preview of project](screenshots/desktop.png)
 
-![Mobile preview of project](\screenshots\mobile.png)
+![Mobile preview of project](screenshots/mobile.png)
 
 ### Links
 
