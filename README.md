@@ -7,14 +7,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop preview of project](screenshots\desktop.png)
+![Desktop preview of project](\screenshots\desktop.png)
 
-![Mobile preview of project](screenshots\mobile.png)
+![Mobile preview of project](\screenshots\mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://gingerlox.github.io/frontendMentor-qrCode/](https://gingerlox.github.io/frontendMentor-qrCode/)
 
 ## My process
 
@@ -26,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Good practice on simple mobile first workflow. Recently finished a frontend course, and using Frontend Mentor to hammer home these concepts for moving on top JS.
+Good practice on simple mobile first workflow. Recently finished a frontend course, now using Frontend Mentor to hammer home these concepts for moving on to JS.
 
 ### Continued development
 
